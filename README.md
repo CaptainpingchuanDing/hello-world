@@ -1,3 +1,3 @@
 # hello-world
-I just want to learn how to use commit.
+Now I can build a new branch.
 just test
